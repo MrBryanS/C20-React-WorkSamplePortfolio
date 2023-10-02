@@ -15,8 +15,8 @@ This is a student assignement to create and deploy a React Portfolio application
 
 [Github Link: https://github.com/MrBryanS/C20-React-WorkSamplePortfolio  ](https://github.com/MrBryanS/C20-React-WorkSamplePortfolio)
 
-[Deployed link: https://mrbryans.github.io/C20-React-WorkSamplePortfolio/
-](https://mrbryans.github.io/C20-React-WorkSamplePortfolio/)
+[Deployed link: 
+]()
 
 
 ## 🚀 About Me
