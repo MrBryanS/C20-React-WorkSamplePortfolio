@@ -5,7 +5,9 @@ export default function Home() {
       <p>
        Bryan Stauning
        Full Stack Web Developer 
+        
       </p>
+      <p>HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, MySQL, Git, GitHub, Heroku, and more.</p>
     </div>
   );
 }
